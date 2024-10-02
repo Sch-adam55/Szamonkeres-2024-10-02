@@ -1,0 +1,17 @@
+body.dark-mode {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+body.dark-mode .form-control {
+  background-color: #2c2c2c;
+  color: #ffffff;
+}
+
+body.dark-mode .form-control::placeholder {
+  color: #ffffff;
+}
+
+body.dark-mode footer {
+  color: #ffffff;
+}
